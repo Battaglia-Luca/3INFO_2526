@@ -1,22 +1,19 @@
-.bg1, .bg2, .bg3, .bg4 {
-    background-image: url("/../../../../Scaricati/download.png");
+
+
+  .bg1 {
+    background-image:url("/../../../../Scaricati/download.png");
+    color: white;
     width: 250px;
-    height: 90px;
-    border: 1px solid black;
+    height: 100px;
   }
 
-.bg1 { 
-    background-repeat: repeat; 
-}
-  
-.bg2 { 
-    background-repeat: no-repeat; 
-}
-  
-.bg3 { 
-    background-repeat: repeat-x; 
-}
-  
-.bg4 { 
-    background-repeat: repeat-y; 
-}
+  .bg2 {
+    background-image:url("/../../../../Scaricati/download.png");
+  }
+
+  #bg3 {
+    background-image:url("/../../../../Scaricati/download.png");
+    color: white;
+    width: 250px;
+    height: 100px;
+  }
